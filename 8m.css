@@ -1,0 +1,26 @@
+body{
+background:url(8.jpg)fixed;  
+background-size: cover;
+}
+@keyframes iron{
+0%{opacity:0 ; }
+50%{opacity:0.5 ; }
+100%{opacity:1 ; }
+
+
+}
+.mmm{transform: scale(0.3);}
+#wrapper img{
+	padding: :10px 0px 0px;
+	width: 30vw;
+
+animation-name: iron ;
+animation-duration:10s;
+}
+.www{display: flex;}
+
+h1{
+color:pink;
+font-size: 75px;
+
+}
